@@ -1,0 +1,1 @@
+# aws-cloud-practioner-mock-exam
